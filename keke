@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 cd /root
 clear
 sleep 1
@@ -8,7 +8,7 @@ echo -e "\t 欢迎使用 “\033[32m  \033[0m” 一键 酸酸乳 v2ray op BBR�
 echo
 echo -e "\t 本脚本经网络搜集修改整合而成"
 echo
-echo -e "\t 只是为了方便使用（如有侵权，请联系我删除 邮箱：xxxxxxxxx.com"）
+echo -e "\t 只是为了方便使用（如有侵权，请联系我删除 邮箱：xxxxx@xxxxx.com"）
 echo
 echo -e "======================================================================================================"
 echo
